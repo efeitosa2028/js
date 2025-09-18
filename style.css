@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: 0;
+     font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #eee;
+    font-size: 12px;
+}
+
+header {
+    width: 80%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    z-index: 2;
+    margin: auto;
+}
+
+header a {
+    color: #eee;
+    margin-right:40px;
+}
+
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
